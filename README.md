@@ -1,4 +1,4 @@
-# PostgreSql-Streaming-replication
+# PostgreSql-installation
 ![diagram](Capture.PNG)
 
 
